@@ -1,0 +1,28 @@
+
+body{
+
+ 
+    font-family: sans-serif;
+    background-color: #f5d4a2;
+}
+h1{
+
+    text-align: center;
+
+}
+
+div{
+
+text-align: center;
+
+}
+.error{
+
+text-align: center;
+
+}
+form{
+align-items: center;
+text-align: center;
+align-self: center;
+}
